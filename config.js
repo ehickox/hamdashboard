@@ -88,6 +88,7 @@ const aIMG = [
     "WEATHER",
     "https://www.weather.gov/images/mtr/GraphiDSS/MaxTCWA_Day1.png",
     "https://www.weather.gov/images/mtr/GraphiDSS/MinTCWA_Day1.png",
+    "https://www.weather.gov/images/mtr/PQPF_New/PQPFStormTotalQPFEventDrivenWeb1_1stevent.png"
   ],
   ["10M PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"],
   ["HF PROPAGATION",
