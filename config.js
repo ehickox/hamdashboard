@@ -88,26 +88,18 @@ const aIMG = [
     "MUF",
     "https://prop.kc2g.com/renders/current/mufd-normal-now.svg",
   ],
-  ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
+  ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
     "WEATHER",
     "https://www.weather.gov/images/mtr/GraphiDSS/MaxTCWA_Day1.png",
     "https://www.weather.gov/images/mtr/GraphiDSS/MinTCWA_Day1.png",
     "https://www.weather.gov/images/mtr/PQPF_New/PQPFStormTotalQPFEventDrivenWeb1_1stevent.png"
   ],
-  ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
+  ["10M PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"],
   ["HF PROPAGATION",
-    "https://www.hamqsl.com/solar101vhf.php"],
-  [
-    "RS-44 POSITION",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
-  ],
-  ["Solar WX",
-    "https://services.swpc.noaa.gov/images/animations/suvi/primary/map/latest.png"],
-  ["HF PROPAGATION",
-    "https://www.hamqsl.com/solar100sc.php"],
-  ["HF PROPAGATION",
-    "https://www.hamqsl.com/solarpich.php"],
+  "https://www.hamqsl.com/solar101vhf.php",
+  "https://www.hamqsl.com/solar100sc.php",
+  "https://www.hamqsl.com/solarpich.php"],
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
