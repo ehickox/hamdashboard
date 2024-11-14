@@ -4,7 +4,6 @@ const topBarCenterText = `K6BCW - CM87`;
 var layout_cols = 4;
 var layout_rows = 3;
 
->>>>>>> upstream/main
 // Menu items
 // Structure is as follows HTML Color code, Option, target URL, scaling 1=Original Size, side (optional, nothing is Left, "R" is Right)
 // The values are [color code, menu text, target link, scale factor, side],
