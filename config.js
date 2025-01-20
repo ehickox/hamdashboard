@@ -62,6 +62,7 @@ const aIMG = [
   [
     "LOCAL RADAR",
     "https://radar.weather.gov/ridge/standard/KMUX_loop.gif",
+    "https://radar.weather.gov/ridge/standard/KJAX_loop.gif",
   ],
   [
     "NOAA D-RAP",
@@ -77,7 +78,8 @@ const aIMG = [
     "https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/wus/EXTENT3/GOES18-WUS-EXTENT3-1000x1000.gif"
   ],
   [
-    "SATELLITE CGL",
+    "SATELLITE SE AND CGL",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/se/EXTENT3/GOES16-SE-EXTENT3-600x600.gif",
     "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-CGL-EXTENT3-600x600.gif",
   ],
   [
